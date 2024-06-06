@@ -1,0 +1,31 @@
+.gradient-background {
+  background: linear-gradient(330deg,#357d08,#a4e513,#e282e4,#8abafd,#6668bb);
+  background-size: 300% 300%;
+  animation: gradient-animation 5s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-image {
+  height: 120px;
+  width: 120px;
+  margin: 10px;
+  border-radius: 50%;
+  object-fit: cover;
+}
