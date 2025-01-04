@@ -5,4 +5,4 @@
 #technolopgy used is taliwind css, bootstrap, html, css for the developmet of the website.
 
 #This is the link as you can see my tincat website
-[https://tin-cat-website.vercel.app/](https://tindercatpatchup.netlify.app/)
+https://tindercatpatchup.netlify.app/
